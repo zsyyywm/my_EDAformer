@@ -1,0 +1,11 @@
+# 与 TransNeXt 复现文档一致：数据与权重不入库
+DataA-B/
+data/checkpoints1/
+data/checkpoints2/
+work_dirs/
+*.pth
+*.pth.tar
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/

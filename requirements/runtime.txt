@@ -1,0 +1,7 @@
+matplotlib
+numpy
+terminaltables
+# SegFormerHead：import attr 依赖 PyPI 包 attrs
+attrs>=21.0.0
+# mmcv<=1.2.x Config.dump() calls yapf.FormatCode(..., verify=True); yapf>=0.40 removed it.
+yapf==0.31.0
